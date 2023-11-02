@@ -16,6 +16,4 @@ Para rodar os códigos do projeto você irá utilizar as seguintes bibliotecas:
 - zipfile
 - os
 - matplotlib.pyplot 
-- seaborn 
-
-
+- seaborn
