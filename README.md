@@ -1,4 +1,4 @@
-# Análise exploratória de daados de logística
+# Análise exploratória de dados de logística
 
 O projeto consiste na análise de dados logísticos da empresa Loggi na região do Distrito Federal.
 
